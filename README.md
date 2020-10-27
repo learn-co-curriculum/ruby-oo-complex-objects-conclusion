@@ -1,4 +1,4 @@
-# Building Complex Class Objects in Ruby Conclusion
+# Complex Objects Conclusion
 
 In this section, we have learned that classes act as blueprints for objects.
 When we define a class, we decide what attributes and behaviors (methods) should
