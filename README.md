@@ -1,16 +1,18 @@
 # Building Complex Class Objects in Ruby Conclusion
 
-Now, we should understand that classes act as blueprints for objects. These
-objects have state and behavioral properties, and we can then establish what
-attributes and behaviors that each object should have.
+In this section, we have learned that classes act as blueprints for objects.
+When we define a class, we decide what attributes and behaviors (methods) should
+be associated with the objects. Then when instances of the class &mdash; the
+objects &mdash; are created, they have those state and behavioral properties.
 
-We worked through a few tasks such as: 
-* Creating a database model for a domain model with different types of object associations
+We worked through a few tasks such as:
+
+* Creating a domain model with different types of object associations
+
 * Writing instance methods that manipulate nested data structures
-* Building a fully functional object oriented program
 
-In addition to this previously discussed concept, we introduced code design
-principles that object-oriented programmers commonly use. With this knowledge,
-we are able to use the domain model can empower you to write maintainable code
-in larger scale applications.
+* Building a fully functional object-oriented program
 
+We also introduced code design principles that object-oriented programmers
+commonly use. With this knowledge, we are able to use the domain model to write
+maintainable code in larger scale applications.
