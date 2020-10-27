@@ -2,8 +2,8 @@
 
 In this section, we have learned that classes act as blueprints for objects.
 When we define a class, we decide what attributes and behaviors (methods) should
-be associated with the objects. Then when instances of the class &mdash; the
-objects &mdash; are created, they have those state and behavioral properties.
+be associated with the objects. Then when instances of the class are created 
+they have those state and behavioral properties.
 
 We worked through a few tasks such as:
 
